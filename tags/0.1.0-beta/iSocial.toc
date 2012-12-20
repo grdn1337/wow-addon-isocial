@@ -1,0 +1,17 @@
+## Interface: 50100
+## Title: i|cffffffaaSocial|r
+## Version: 0.1.0
+## Notes: LDB plugin which displays both iFriends and iGuild at the same time.
+## Author: grdn
+## Dependencies: iFriends, iGuild
+## OptionalDeps: Ace3, iLib
+
+# Libraries
+Libs\LibStub\Libstub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\libdatabroker-1-1\LibDataBroker-1.1.lua
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\iLib\lib.xml
+
+# Main
+iSocial.lua
