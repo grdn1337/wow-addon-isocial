@@ -1,6 +1,6 @@
-## Interface: 60100
+## Interface: 60200
 ## Title: i|cffffffaaSocial|r
-## Version: 6.1.1
+## Version: 6.2.1
 ## Notes: LDB plugin which displays both iFriends and iGuild at the same time.
 ## Author: grdn
 ## Dependencies: iFriends, iGuild
