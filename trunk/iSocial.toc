@@ -1,6 +1,6 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: i|cffffffaaSocial|r
-## Version: 7.0.2
+## Version: 7.1.0
 ## Notes: LDB plugin which displays both iFriends and iGuild at the same time.
 ## Author: grdn
 ## Dependencies: iFriends, iGuild
