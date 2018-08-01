@@ -3,7 +3,6 @@
 
 <Script file="Libs\libdatabroker-1-1\LibDataBroker-1.1.lua"/>
 
-<!--@no-lib-strip@-->
 <!--@non-debug@
 <Include file="Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml"/>
 <Script file="Libs\LibStub\Libstub.lua"/>
@@ -12,7 +11,6 @@
 
 <Include file="Libs\AceEvent-3.0\AceEvent-3.0.xml"/>
 @end-non-debug@-->
-<!--@end-no-lib-strip@-->
 
 
 <Script file="iSocial.lua"/>
