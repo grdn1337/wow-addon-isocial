@@ -1,5 +1,5 @@
 -----------------------------------
--- Setting up scope and libs
+-- Setting up scope and libs 
 -----------------------------------
 
 local AddonName, iSocial = ...;
